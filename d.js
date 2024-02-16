@@ -1,1 +1,1 @@
-{"url":"https://swazera.com/v/"}
+{"url":"https://swazera.site/"}
